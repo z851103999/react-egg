@@ -1,0 +1,4 @@
+2022-03-07 10:20:52 [httpLog] {"method":"POST","url":"/api/user/register","data":{"username":"zhangzheng","password":"12345678","phone":"13116131088"},"startTime":"2022-03-07 10:20:52","endTime":"2022-03-07 10:20:52","timeLength":139}
+2022-03-07 10:22:59 [httpLog] {"method":"GET","url":"/api/user/login","data":{"username":"zhangzheng","password":"12345678"},"startTime":"2022-03-07 10:22:59","endTime":"2022-03-07 10:22:59","timeLength":1}
+2022-03-07 10:23:45 [httpLog] {"method":"POST","url":"/api/user/login","data":{"username":"zhangzheng","password":"12345678"},"startTime":"2022-03-07 10:23:45","endTime":"2022-03-07 10:23:45","timeLength":24}
+2022-03-07 10:45:59 [httpLog] {"method":"POST","url":"/api/user/login","data":{"username":"zhangzheng","password":"12345678"},"startTime":"2022-03-07 10:45:59","endTime":"2022-03-07 10:45:59","timeLength":149}
